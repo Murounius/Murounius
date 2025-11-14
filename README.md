@@ -7,7 +7,7 @@ I enjoy finding potential projects before they grow and holding strong positions
 
 ---
 
-## What I am focused on
+##🌐 What I am focused on
 - Building simple and useful onchain tools
 - Researching early stage opportunities
 - Tracking market sentiment and token behavior
@@ -15,7 +15,7 @@ I enjoy finding potential projects before they grow and holding strong positions
 
 ---
 
-## Current Goals
+## 🔐 Current Goals
 - Expanding smart contract skills
 - Improving research frameworks
-- Supporting early builders 🌐
+- Supporting early builders
