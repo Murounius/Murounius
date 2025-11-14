@@ -1,4 +1,4 @@
-# Hi, I am an Onchain Developer
+# ⛓️‍💥 Hi, I am an Onchain Developer
 
 ### Early Investor • Long term Investor • Early Bird for promising projects
 
@@ -18,4 +18,4 @@ I enjoy finding potential projects before they grow and holding strong positions
 ## Current Goals
 - Expanding smart contract skills
 - Improving research frameworks
-- Supporting early builders
+- Supporting early builders 🌐
