@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I am an Onchain Developer
 
-<!--
-**Murounius/Murounius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Early Investor • Long term Investor • Early Bird for promising projects
 
-Here are some ideas to get you started:
+I explore new tech, experiment with onchain mechanisms, and stay active in early stage ecosystems.  
+I enjoy finding potential projects before they grow and holding strong positions long term.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I am focused on
+- Building simple and useful onchain tools
+- Researching early stage opportunities
+- Tracking market sentiment and token behavior
+- Understanding fundamentals before making decisions
+
+---
+
+## Current Goals
+- Expanding smart contract skills
+- Improving research frameworks
+- Supporting early builders
